@@ -5,6 +5,7 @@ on:
         branches:
             -main
             -Prod
+            -main
 
 jobs:
     build-and-test:
